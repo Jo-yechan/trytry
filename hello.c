@@ -3,6 +3,6 @@
 int main (void){
 
 
-print("hello  world");
+print("hllo  world");
 return 0;
 }
